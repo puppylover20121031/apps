@@ -1,0 +1,14 @@
+{
+    "customCommands.commands": [
+        {
+            "name": "Hello World",
+            "command": "echo Hello World",
+            "runOnStartup": false,
+            "runOnShutdown": false
+        },
+        {
+            "name": "todo?",
+            "command": "python F:/app2/whatdo.py"
+        }
+    ]
+}
