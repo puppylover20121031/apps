@@ -3,7 +3,7 @@ import json
 
 def whattodo():
 
-    with open('todolist.json', 'r') as f:
+    with open('C:/Users/jaydenpuppy/Documents/GitHub/apps/app1/todolist.json', 'r') as f:
         todo_list = json.load(f)
 
         num_tasks = len(todo_list['unfinished'])
