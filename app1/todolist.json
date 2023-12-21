@@ -1,9 +1,1 @@
-{
-    "unfinished": {
-        "1. ": "continue my game",
-        "2. ": "think of more things todo",
-        "3. ": "make a website"
-    },
-    "done": {}
-}
-
+{'1. ', 'continue my game'}, {'2. ', 'make a website'}, {'3. ', 'think of more things to do'}
